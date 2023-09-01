@@ -1,4 +1,4 @@
 # project1
 This is my first repository
 <br>
-Author- Sravya Singampalli 1
+Author- Sravya Singampalli 1(Tata Elxsi)
